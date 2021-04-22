@@ -6,8 +6,8 @@
 
 declare(strict_types=1);
 
-use Mos\Router\Router;
-use function Mos\Functions\getRoutePath;
+use johl20\Router\Router;
+use function johl20\Functions\getRoutePath;
 
 /**
  * Bootstrapping

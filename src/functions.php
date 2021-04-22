@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mos\Functions;
+namespace johl20\Functions;
 
 /**
  * Functions.

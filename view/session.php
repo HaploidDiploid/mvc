@@ -6,7 +6,7 @@
 
 declare(strict_types=1);
 
-use function Mos\Functions\url;
+use function johl20\Functions\url;
 
 $url = url("/session/destroy");
 
@@ -20,4 +20,4 @@ EOD;
 var_dump(session_name());
 var_dump($_SESSION);
 
-$_SESSION["counter"] = 1 + ($_SESSION["counter"] ?? 0);
+// $_SESSION["counter"] = 1 + ($_SESSION["counter"] ?? 0);

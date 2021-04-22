@@ -2,6 +2,7 @@
     "autoload": {
         "psr-4": {
             "Mos\\": "src/",
+            "Dbwebb\\": "src/",
             "johl20\\": "src/"
         },
         "files": [

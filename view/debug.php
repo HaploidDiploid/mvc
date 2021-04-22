@@ -6,7 +6,7 @@
 
 declare(strict_types=1);
 
-use function Mos\Functions\{
+use function johl20\Functions\{
     getBaseUrl,
     getCurrentUrl,
     getRoutePath
